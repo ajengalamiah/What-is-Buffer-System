@@ -1,33 +1,40 @@
-# classrecipe-template
-## elementary,social,classroom
+# What-is-Buffer-System
+## senior exact laboratory
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-Elementary School (6-12)
+Elementary School (12)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://henitasilmikhavata.files.wordpress.com/2013/02/wtty.jpg)
 ---
 #Scale
 1 classroom (~30)
 
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
-
+In this activity, students will practice how to make a solution of buffer system and related to the concepts
 
 ---
 #Educational Effect
-* Search information and Remixing
+make a buffer solution and know the concept from their observation
 
 skill
 
-* Presentation Skill
-* deep Knowledge for own country
+* phsychomotor skill
+* deep Knowledge about the concept
+* aplly science attitude
 
 ---
 #Item/Material/System
-* PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
-* Popcorn Maker
+[BUffer solution animation](https://ajengalamiah.makes.org/popcorn/1mr9)
+* PC *Installed latest 
 * Screen for presentation
+* Acetic acid (aq)
+* Acetate (aq)
+* Hydrochloride acid (aq)
+* Sodium hidroxide (aq)
+* Baker Glass
+* measuring glass
+* Pipette
 ---
